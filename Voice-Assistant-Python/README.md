@@ -737,10 +737,6 @@ If you find this project useful for learning Python, automation, speech processi
 
 🍴 **Fork the repository**
 
-📚 **Explore the notebook**
-
-💡 **Build your own extensions**
-
 
 # ⚠️ Disclaimer
 
