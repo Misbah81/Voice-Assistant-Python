@@ -1,0 +1,15 @@
+SpeechRecognition
+PyAudio
+pyttsx3
+playsound
+wikipedia
+pyautogui
+pygetwindow
+opencv-python
+numpy
+qrcode[pil]
+python-docx
+g4f
+gTTS
+chatterbot
+spacy
